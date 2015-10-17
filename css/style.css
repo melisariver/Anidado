@@ -1,0 +1,43 @@
+.red{
+	background-color: red;
+	height:300px;
+	position: static;
+	width:300px;
+}
+.purple{
+	background-color: purple;
+	height:150px;
+	margin:auto;
+	position: relative;
+	top:25%;
+	width:150px;
+}
+.yellow{
+	background-color:yellow;
+	height:75px;
+	position: absolute;
+	width:75px;
+}
+.blue{
+	background-color:blue;
+	height:300px;
+	margin-top:10px;
+	position:relative;
+	width:300px;
+}
+.green{
+	background-color:green;
+	height:150px;
+	margin: auto;
+	position: relative;
+	top:25%;
+	width:150px;
+}
+.black{
+	background-color:black;
+	height:75px;
+	left:0;
+	position: absolute;
+	top:0;
+	width:75px;
+}
